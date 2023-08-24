@@ -22,7 +22,7 @@ The increased use and popularity of digital assets and blockchain has inspired a
 
 ## Results
 
-Amberdata received a $330 Million valuation in 2022, and has had a major business impact offering data on over 100 exchanges and 12 blockchains. Nasdaq investment fund currently holds a percentage ownership of the company. Because it is a privately held company there is not a lot of visibility on its financials but they have been successful at raising funds. 
+Amberdata received a $330 Million valuation in 2022, and has had a major business impact, now offering data on over 100 exchanges and 12 blockchains. Nasdaq investment fund currently holds a percentage ownership of the company. Because it is a privately held company there is not a lot of visibility on its financials but they have been successful at raising funds. 
 
 “Amberdata uses recurring revenue, renewals, new business and number of API calls as core metrics to measure success. They perform better during bull markets when cryptocurrencies are hot and there’s a lot of demand for data on digital assets.”(1)
 
