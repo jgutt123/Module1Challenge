@@ -12,7 +12,7 @@ Building and maintaining massive data infrastructure and extracting and processi
 
 Amberdata’s intended customer is financial institutions which amount to a total market value of nearly $26 Trillion. Companies such as Citi, Coinbase, Binance, and Franklin Templeton all trust Amberdata for its products and services.
 
-Some of Amberdata’s main competitors are Kaiko Data, and CoinMetrics. Although CoinMetrics provides cryptocurrency asset market and network data, Amberdata offers far more granular, indexed, time series on data than CoinMetrics. Kaiko on the other hand doesn’t provide blockchain (on-chain data, making Amberdata the leader in Digital assets market data and insights. Amberdata currently holds its servers on AWS and uses Amazon CloudFront to deliver content and data to its APIs.
+Some of Amberdata’s main competitors are Kaiko Data, and CoinMetrics. Although CoinMetrics provides cryptocurrency asset market and network data, Amberdata offers far more granular, indexed, time series on data than CoinMetrics. Kaiko on the other hand doesn’t provide blockchain (on-chain data), making Amberdata the leader in Digital assets market data and insights. Amberdata currently holds its servers on AWS and uses Amazon CloudFront to deliver content and data to its APIs.
 
 ## Landscape
 
